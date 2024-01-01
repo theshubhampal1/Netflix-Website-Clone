@@ -1,0 +1,262 @@
+body {
+    background: black;
+}
+
+.banner {
+    background: url(BOOTSTRAP-24-IMG/banner.jpg);
+    background-size: 100% 100%;
+}
+
+.bannerblack {
+    background: rgba(0, 0, 0, .6);
+    margin: 0px;
+}
+.bannertext{
+   margin-top: 180px;
+  }
+.bannertext h1 {
+  color: white !important;
+  text-align:center;
+  font-weight: bold;
+}
+.bannertext p{
+    color: white !important;
+    text-align:center;
+    font-size: 18px;
+  }
+  .lastrow
+  {
+    border-bottom: 4px solid rgb(67, 67, 67);
+  }
+  .rows7 p{
+    color: white !important;
+    text-align:center;
+    font-size: 18px;
+  }
+.a {
+    min-height: 65px;
+}
+
+.b {
+    min-height: 450px;
+}
+
+.c {
+    min-height: 50px;
+}
+
+.d {
+    min-height: 80px;
+}
+.e
+{
+    min-height: 150px;
+}
+.f
+{
+    min-height: 350px;
+}
+.tv
+{
+    color: white !important;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.tv h2
+{
+   font-weight: bold;
+}
+.img1 {
+    width: 180px;
+    padding-top: 10px;
+    padding-left: 20px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.img11 {
+    padding-left: 10%;
+}
+
+.img11 i {
+    color: white;
+    margin-left: 60%;
+    margin-top: 35px;
+}
+
+.img11 select {
+    color: white;
+    margin-top: 30px;
+}
+
+.button1 {
+    height: 30px;
+    width: 65px;
+    text-align: center;
+    box-sizing: border-box;
+    float: right;
+    margin-right: 13%;
+    margin-top: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    background: red;
+    border-style: none;
+    border-radius: 5px;
+    color: white;
+}
+
+.button2 {
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 25px;
+    background: red;
+    border-style: none;
+    border-radius: 5px;
+    color: white;
+}
+.input
+{
+    height: 50px;
+    width: 200px;
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 150px;
+    background: rgba(0, 0, 0, .1);
+    color: white;
+    border: 1px solid rgb(0, 198, 0);
+    width: 40%;
+}
+.input::placeholder
+{
+    color: white;
+}
+.img1~a {
+    text-decoration: none;
+    color: black;
+}
+
+.warning {
+    font-size: 25px;
+    padding-left: 50px;
+    box-sizing: border-box;
+}
+
+.txt2 {
+    font-size: 17px;
+}
+
+.row2 {
+    background: #d89d31;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.txt2 a {
+    color: black;
+}
+
+.pass {
+    height: 55px;
+}
+
+.pass~a {
+    text-decoration: none;
+}
+
+.sub {
+    background: #017efb !important;
+    color: white !important;
+    height: 55px;
+    font-size: 20px;
+}
+
+.foot1 {
+    color: #aeaeae !important;
+    font-size: 14px;
+}
+
+.foot1 a {
+    color: #aeaeae !important;
+}
+
+.foot1 i {
+    color: white !important;
+}
+
+.foot2 {
+    padding-left: 50px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+.foot2 a {
+    color: #aeaeae !important;
+}
+
+select {
+    background: black !important;
+    color: white !important;
+}
+
+.mainform {
+    background: #f3f3f3 !important;
+}
+
+.para {
+    color: #aeaeae !important;
+    font-size: 16px;
+    margin: 0px;
+}
+
+.para a {
+    color: #aeaeae !important;
+}
+
+.radio {
+    margin-left: 20px;
+}
+
+.txtlast {
+    font-size: 14px;
+    font-weight: bold;
+    color: #aeaeae !important;
+}
+
+.col6 {
+    color: white !important;
+
+}
+
+.col6 h3 {
+    text-align: center;
+    font-weight: bold;
+}
+
+details {
+    display: inline-block;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+details~i {
+    float: right;
+    padding-top: 20px;
+    font-size: 35px;
+}
+
+.faq {
+    background: rgba(92, 92, 92, 0.5);
+}
+
+.mb-2 {
+    min-height: 80px;
+    line-height: 80px;
+}
